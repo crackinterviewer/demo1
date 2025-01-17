@@ -1,4 +1,4 @@
-var nouse;
+var nouse, val2;
 let output => 'This is the demo app'
 
 var num1=100;
