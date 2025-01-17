@@ -15,5 +15,5 @@ jobs:
         with:
           args: >
             -Dsonar.organization=crackinterviewer
-            -Dsonar.projectkey=crackinterviewer
+            -Dsonar.projectkey=demo1
         
